@@ -1,0 +1,11 @@
+crewai[tools]==0.165.1
+duckduckgo-search
+pandas
+jupyterlab
+networkx
+matplotlib
+scikit-learn
+langtrace-python-sdk
+deprecated
+ipywidgets
+nbconvert
